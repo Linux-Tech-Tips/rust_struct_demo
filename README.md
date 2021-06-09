@@ -1,2 +1,3 @@
 # rust_struct_demo
-trying out structs and enums in Rust
+
+Simple program that I wrote to try out how structs and enums work in Rust
